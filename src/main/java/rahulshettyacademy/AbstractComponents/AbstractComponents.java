@@ -46,8 +46,7 @@ public class AbstractComponents {
 //		wait.until(ExpectedConditions.invisibilityOf(ele));
 	}
 
-	//demo purpose
-	System.out.println("demo");
+	
 	
 	public CartPage goToCartPage()
 	{
